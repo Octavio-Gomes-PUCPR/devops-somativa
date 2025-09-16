@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d874c55b-c0cd-460d-8a94-865f00a931de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/cd-pipeline.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/ci-pipeline.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +34,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/ci-cd",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Octavio Gomes/Documents/GitHub/devops-somativa"
   }
 }]]></component>
