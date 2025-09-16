@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d874c55b-c0cd-460d-8a94-865f00a931de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/cd-pipeline.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/ci-pipeline.yml" afterDir="false" />
-    </list>
+    <list default="true" id="d874c55b-c0cd-460d-8a94-865f00a931de" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
